@@ -6,10 +6,10 @@ Developed as a mini project for **OOP Using Java (CSE203)**, Kalasalingam Academ
 ## Team
 | Name | Register No. | Role |
 |------|--------------|------|
-| [Member 1] | [Reg. No.] | [e.g. GUI and cart module] |
-| [Member 2] | [Reg. No.] | [e.g. database and payment module] |
+| [M.ARUL VIGNESH] | [99250040050] | [e.g. GUI and cart module] |
+| [S.KAVIYAN] | [99250040096] | [e.g. database and payment module] |
 
-**Guide:** [Faculty name]
+**Guide:** [MS Shanmugapriya]
 
 ## Features
 - User login and registration
